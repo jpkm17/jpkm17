@@ -1,5 +1,5 @@
 ### Olá, eu sou o João Pedro Meneguesso
-#### tenho 16 anos, estou no 2º do ensino médio
+#### tenho 16 anos, estou no 3º do ensino médio
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_meneguesso_/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpm83633@gmail.com)
