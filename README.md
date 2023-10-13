@@ -1,5 +1,5 @@
 ### Olá 👋, eu sou o João Pedro Meneguesso
-#### tenho 18 anos, estou no 1º Semestre da faculdade
+#### Tenho 18 anos, estou cursando análise e desenvolvimento de sistemas
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao.meneguesso/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpm83633@gmail.com)
@@ -13,7 +13,4 @@
     <img alt='node.js'src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
     <img alt='react'src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
     <img alt='mongoBD'src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
-</div><br>
-<br>
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpkm17&theme=blue-green)
+</div>
