@@ -1,5 +1,4 @@
 ### Olá 👋, eu sou o João Pedro Meneguesso
-#### Tenho 18 anos, estou cursando análise e desenvolvimento de sistemas
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao.meneguesso/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpm83633@gmail.com)
